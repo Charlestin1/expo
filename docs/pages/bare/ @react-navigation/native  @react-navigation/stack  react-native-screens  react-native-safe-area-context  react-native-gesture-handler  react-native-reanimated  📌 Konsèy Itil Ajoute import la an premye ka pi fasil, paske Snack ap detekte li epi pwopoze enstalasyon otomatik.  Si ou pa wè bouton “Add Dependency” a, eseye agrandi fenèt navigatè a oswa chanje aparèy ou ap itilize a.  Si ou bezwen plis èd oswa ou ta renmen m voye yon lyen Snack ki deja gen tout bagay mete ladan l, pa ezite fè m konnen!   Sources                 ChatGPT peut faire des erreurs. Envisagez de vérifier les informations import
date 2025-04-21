@@ -1,0 +1,39 @@
+
+@react-navigation/native
+
+@react-navigation/stack
+
+react-native-screens
+
+react-native-safe-area-context
+
+react-native-gesture-handler
+
+react-native-reanimated
+
+📌 Konsèy Itil
+Ajoute import la an premye ka pi fasil, paske Snack ap detekte li epi pwopoze enstalasyon otomatik.
+
+Si ou pa wè bouton “Add Dependency” a, eseye agrandi fenèt navigatè a oswa chanje aparèy ou ap itilize a.
+
+Si ou bezwen plis èd oswa ou ta renmen m voye yon lyen Snack ki deja gen tout bagay mete ladan l, pa ezite fè m konnen!
+
+
+Sources
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ChatGPT peut faire des erreurs. Envisagez de vérifier les informations import
